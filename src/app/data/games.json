@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "rust",
+    "title": "Rust",
+    "description": "Survival game in a harsh open-world environment where players must gather resources, craft items, and build shelters to survive.",
+    "releaseDate": "2013-12-11",
+    "images": ["https://cdn.cloudflare.steamstatic.com/steam/apps/252490/header.jpg"]
+  },
+  {
+    "slug": "path-of-exile",
+    "title": "Path of Exile",
+    "description": "A dark fantasy action RPG with deep customization, challenging gameplay, and a vast world to explore.",
+    "releaseDate": "2013-10-23",
+    "images": ["https://cdn.cloudflare.steamstatic.com/steam/apps/238960/header.jpg"]
+  },
+  {
+    "slug": "red-dead-redemption-2",
+    "title": "Red Dead Redemption 2",
+    "description": "Epic tale of life in America at the dawn of the modern age. A story-driven open-world game from Rockstar.",
+    "releaseDate": "2018-10-26",
+    "images": ["https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg"]
+  }
+]
