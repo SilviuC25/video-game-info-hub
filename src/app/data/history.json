@@ -1,0 +1,62 @@
+[
+  {
+    "year": "1958",
+    "title": "The Birth of Video Games",
+    "description": "The first video game, Spacewar!, is developed by Steve Russell at MIT, becoming the foundation of modern gaming.",
+    "image": "/images/history/spacewar.jpg"
+  },
+  {
+    "year": "1980",
+    "title": "The Rise of Arcades",
+    "description": "Pac-Man is released and becomes a cultural icon, pushing video games into mainstream entertainment.",
+    "image": "/images/history/pacman.avif"
+  },
+  {
+    "year": "1991",
+    "title": "The Revolution of 16-bit Consoles",
+    "description": "Sega Genesis and SNES arrive, bringing the world more immersive gaming experiences.",
+    "image": "/images/history/snes.avif"
+  },
+  {
+    "year": "1994",
+    "title": "The Launch of PlayStation",
+    "description": "Sony releases the PlayStation, marking the beginning of a new era in console gaming, with iconic franchises like Final Fantasy and Metal Gear Solid.",
+    "image": "/images/history/ps1.jpg"
+  },
+  {
+    "year": "2000",
+    "title": "The Birth of Online Gaming",
+    "description": "Games like Diablo II and Unreal Tournament bring multiplayer gaming to the masses over the internet.",
+    "image": "/images/history/diablo2.jpg"
+  },
+  {
+    "year": "2001",
+    "title": "Xbox Enters the Scene",
+    "description": "Microsoft's first Xbox console launches, introducing the gaming world to Halo and starting the rivalry between Xbox and PlayStation.",
+    "image": "/images/history/xbox.avif"
+  },
+  {
+    "year": "2004",
+    "title": "World of Warcraft and the MMO Explosion",
+    "description": "World of Warcraft is released, becoming the most popular MMORPG in the world and influencing the future of online multiplayer games.",
+    "image": "/images/history/wow.jpg"
+  },
+  {
+    "year": "2010",
+    "title": "The Age of Open-World Games",
+    "description": "Games like Skyrim, The Witcher, and Red Dead Redemption define a new era of exploration and storytelling.",
+    "image": "/images/history/skyrim.jpeg"
+  },
+  {
+    "year": "2013",
+    "title": "The Release of PlayStation 4 and Xbox One",
+    "description": "The new generation of consoles enters the market, bringing improved graphics, online features, and a new focus on digital gaming.",
+    "image": "/images/history/ps4.webp"
+  },
+  {
+    "year": "2020",
+    "title": "The Rise of Battle Royale Games",
+    "description": "Games like Fortnite and PUBG dominate the gaming landscape, with millions of players joining the battle royale craze.",
+    "image": "/images/history/fortnite.jpg"
+  }
+]

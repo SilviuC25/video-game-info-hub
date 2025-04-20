@@ -2,22 +2,64 @@
   {
     "slug": "rust",
     "title": "Rust",
-    "description": "Survival game in a harsh open-world environment where players must gather resources, craft items, and build shelters to survive.",
+    "description": "Rust is an unforgiving multiplayer survival game where players are dropped into a harsh open world with nothing but a rock and a torch. From the moment you spawn, your primary goal is simple: survive. But achieving that is anything but easy. You'll need to gather resources, build shelter, craft weapons, and fend off wildlife—and even more dangerously, other players. What makes Rust truly unique is its player-driven chaos: alliances form and collapse in minutes, betrayals are frequent, and your biggest threat isn't the cold or hunger—it's the guy with a gun who wants your base. With a constantly evolving meta and high-stakes PVP, Rust turns survival into a brutal psychological game.",
     "releaseDate": "2013-12-11",
-    "images": ["https://cdn.cloudflare.steamstatic.com/steam/apps/252490/header.jpg"]
+    "images": ["/images/games/rust.webp"]
   },
   {
     "slug": "path-of-exile",
     "title": "Path of Exile",
-    "description": "A dark fantasy action RPG with deep customization, challenging gameplay, and a vast world to explore.",
+    "description": "Path of Exile is a deep and complex action RPG set in the dark fantasy world of Wraeclast. Often compared to Diablo, PoE pushes the genre further with its massive passive skill tree, countless loot combinations, and a never-ending cycle of challenge leagues that keep the game fresh. You play as an exile, cast away from your homeland and forced to survive among ancient evils and corrupted lands. The game shines with its depth—build diversity, economy, and endgame mapping system are just a few reasons players sink hundreds of hours into it. With a dark aesthetic and a relentless focus on customization, PoE isn't just a game—it’s a hobby.",
     "releaseDate": "2013-10-23",
-    "images": ["https://cdn.cloudflare.steamstatic.com/steam/apps/238960/header.jpg"]
+    "images": ["/images/games/path-of-exile.jpg"]
   },
   {
     "slug": "red-dead-redemption-2",
     "title": "Red Dead Redemption 2",
-    "description": "Epic tale of life in America at the dawn of the modern age. A story-driven open-world game from Rockstar.",
+    "description": "Red Dead Redemption 2 is a masterfully crafted open-world epic that captures the final days of the American frontier through the eyes of Arthur Morgan, an outlaw in the Van der Linde gang. Set in a sprawling, living world that reacts to your actions, RDR2 blends storytelling, exploration, and cinematic immersion like few other games. From snowy mountain tops to dusty plains, every inch of the map feels alive, with dynamic weather, rich wildlife, and memorable characters. It’s not just about shootouts and horse chases—it's about choices, morality, and what it means to find redemption in a dying world. A true landmark in gaming history.",
     "releaseDate": "2018-10-26",
-    "images": ["https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg"]
+    "images": ["/images/games/rdr2.jpg"]
+  },
+  {
+    "slug": "the-witcher-3",
+    "title": "The Witcher 3: Wild Hunt",
+    "description": "The Witcher 3: Wild Hunt sets a new standard for open-world RPGs with its rich storytelling, morally complex characters, and breathtaking world design. You play as Geralt of Rivia, a seasoned monster hunter navigating a war-torn continent teeming with dark magic, political intrigue, and ancient prophecies. What makes The Witcher 3 truly stand out is its narrative depth—even side quests carry emotional weight and consequences. The game's attention to detail, from the nuanced dialogue to the hauntingly beautiful landscapes, creates an experience that’s immersive, mature, and unforgettable. With its two incredible expansions, it remains one of the most celebrated RPGs of all time.",
+    "releaseDate": "2015-05-19",
+    "images": ["/images/games/witcher3.avif"]
+  },
+  {
+    "slug": "elden-ring",
+    "title": "Elden Ring",
+    "description": "Elden Ring merges the brutal challenge of FromSoftware's Souls games with an expansive, mysterious open world crafted with the help of George R.R. Martin. You’re a Tarnished, journeying through the Lands Between to become the Elden Lord. The world is full of cryptic lore, haunting beauty, and towering enemies that test your resolve. But it’s also full of quiet moments—sunlight through the trees, forgotten ruins, and awe-inspiring exploration. Elden Ring rewards curiosity and punishes arrogance. It doesn’t just invite you into its world—it dares you to survive in it. A monumental achievement in game design and player agency.",
+    "releaseDate": "2022-02-25",
+    "images": ["/images/games/eldenring.avif"]
+  },
+  {
+    "slug": "cyberpunk-2077",
+    "title": "Cyberpunk 2077",
+    "description": "Cyberpunk 2077 drops you into Night City, a sprawling neon-lit metropolis filled with danger, tech, and broken dreams. You play as V, a mercenary chasing a one-of-a-kind implant that could unlock immortality. Despite its rocky launch, CD Projekt Red turned the game into a captivating RPG that delivers on its promise of freedom, immersion, and character depth. The city feels alive with dynamic NPCs, branching storylines, and a soundtrack that bleeds style. Cyberpunk 2077 is a story of identity, rebellion, and survival in a world where humanity blurs with machine—and your choices shape the future.",
+    "releaseDate": "2020-12-10",
+    "images": ["/images/games/cyberpunk2077.jpg"]
+  },
+  {
+    "slug": "horizon-zero-dawn",
+    "title": "Horizon Zero Dawn",
+    "description": "Horizon Zero Dawn presents a world where nature and machines coexist in a strange harmony. You play as Aloy, an outcast warrior discovering the truth behind her origins and the mysterious fall of a technologically advanced civilization. The game shines through its unique setting—massive robotic beasts roam the wild, ancient ruins whisper of a lost era, and tribal politics unfold with nuance. Combat is dynamic, combining stealth, strategy, and archery against powerful foes. With a compelling lead character and a world that’s both alien and familiar, Horizon Zero Dawn is a refreshing and ambitious take on sci-fi storytelling.",
+    "releaseDate": "2017-02-28",
+    "images": ["/images/games/horizonzerodawn.jpg"]
+  },
+  {
+    "slug": "god-of-war-2018",
+    "title": "God of War (2018)",
+    "description": "God of War reimagines the legendary Kratos in a world of Norse mythology, trading rage-fueled vengeance for fatherhood, introspection, and growth. Alongside his son Atreus, Kratos embarks on a deeply personal journey through breathtaking realms filled with gods, monsters, and emotional revelations. The combat is visceral yet precise, the story poignant yet epic. With a single, unbroken camera shot and world-class voice acting, this game elevates narrative in gaming to a cinematic art form. It's not just a reboot—it’s a redefinition of what a character-driven action game can be.",
+    "releaseDate": "2018-04-20",
+    "images": ["/images/games/godofwar2018.avif"]
+  },
+  {
+    "slug": "fortnite",
+    "title": "Fortnite",
+    "description": "Fortnite is a cultural phenomenon that transcends gaming, blending battle royale chaos with building mechanics and vibrant art. Players drop onto an ever-shrinking island, scavenging for weapons and resources while battling it out against 99 others. The unique building system allows for creative strategies, turning firefights into architectural showdowns. With frequent updates, seasonal events, and collaborations with pop culture icons, Fortnite keeps the experience fresh and engaging. It’s not just a game; it’s a social platform where players can express themselves, team up, and create unforgettable moments.",
+    "releaseDate": "2017-07-25",
+    "images": ["/images/games/fortnite.jpg"]
   }
 ]
